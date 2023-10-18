@@ -26,18 +26,21 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 </tr>
 <tr>
 <td>1000
+  
 200
 </td>
 <td>Saque realizado com sucesso. Novo Saldo: 800</td>
 </tr>
 <tr>
 <td>1500
+  
 1800
 </td>
 <td>Saldo insuficiente. Saque não realizado!</td>
 </tr>
 <tr>
 <td>300
+  
 200
 </td>
 <td>Saque realizado com sucesso. Novo Saldo: 100</td>
